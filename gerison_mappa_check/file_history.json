@@ -1,0 +1,626 @@
+{
+    "abakus.txt": {
+        "size": 6727983,
+        "last_modified": 1744091378
+    },
+    "aci.txt": {
+        "size": 2849479,
+        "last_modified": 1744008063
+    },
+    "ajs.csv": {
+        "size": 3582813,
+        "last_modified": 1744008126
+    },
+    "alcarstock.csv": {
+        "size": 112432,
+        "last_modified": 1744092122
+    },
+    "aspl.csv": {
+        "size": 960194,
+        "last_modified": 1744092364
+    },
+    "asmet_stock.csv": {
+        "size": 17271738,
+        "last_modified": 1744060982
+    },
+    "automotors.csv": {
+        "size": 556508,
+        "last_modified": 1744093022
+    },
+    "autopartner_blue.csv": {
+        "size": 220448164,
+        "last_modified": 1744090873
+    },
+    "autogroup.txt": {
+        "size": 28542954,
+        "last_modified": 1744093082
+    },
+    "autonova.csv": {
+        "size": 1541265,
+        "last_modified": 1744092981
+    },
+    "autopartner_price.csv": {
+        "size": 24939542,
+        "last_modified": 1744007525
+    },
+    "INDEKS_PARAMETR.csv": {
+        "size": 28115416,
+        "last_modified": 1743963945
+    },
+    "autopartner_stock.csv": {
+        "size": 7785944,
+        "last_modified": 1744007525
+    },
+    "autopartner_price_hu.csv": {
+        "size": 25824726,
+        "last_modified": 1744007524
+    },
+    "STANY_48_H.csv": {
+        "size": 8652048,
+        "last_modified": 1744007525
+    },
+    "febirs_hu_stock.csv": {
+        "size": 2387707,
+        "last_modified": 1744091723
+    },
+    "bimida.txt": {
+        "size": 154884,
+        "last_modified": 1730962854
+    },
+    "bosal_stock.txt": {
+        "size": 269473,
+        "last_modified": 1744092602
+    },
+    "conex_2_ro.csv": {
+        "size": 831299,
+        "last_modified": 1744008724
+    },
+    "conex_ro.csv": {
+        "size": 10649193,
+        "last_modified": 1744008724
+    },
+    "Item_Master_Data_SAG.csv": {
+        "size": 84222134,
+        "last_modified": 1744060446
+    },
+    "signeda_stock.csv": {
+        "size": 551209,
+        "last_modified": 1744091342
+    },
+    "direct_katdpf.txt": {
+        "size": 44477,
+        "last_modified": 1744092187
+    },
+    "drm.csv": {
+        "size": 254520,
+        "last_modified": 1744092962
+    },
+    "elring.csv": {
+        "size": 1205149,
+        "last_modified": 1744091402
+    },
+    "skv_stock.csv": {
+        "size": 299669,
+        "last_modified": 1744060202
+    },
+    "euro07.csv": {
+        "size": 16117986,
+        "last_modified": 1744043705
+    },
+    "euroton.csv": {
+        "size": 5602915,
+        "last_modified": 1744060151
+    },
+    "febestpricestock_bg.csv": {
+        "size": 864987,
+        "last_modified": 1744008963
+    },
+    "federal.csv": {
+        "size": 4280419,
+        "last_modified": 1744043403
+    },
+    "forex.csv": {
+        "size": 62134,
+        "last_modified": 1744061522
+    },
+    "gbg_price.txt": {
+        "size": 22985290,
+        "last_modified": 1744059662
+    },
+    "gbg_stock.txt": {
+        "size": 2149993,
+        "last_modified": 1744059662
+    },
+    "gmt_master.csv": {
+        "size": 16863286,
+        "last_modified": 1744039742
+    },
+    "topex_stock.csv": {
+        "size": 149619,
+        "last_modified": 1744008242
+    },
+    "69973_Quantity_op.csv": {
+        "size": 1739310,
+        "last_modified": 1744092302
+    },
+    "69973_PriceList_EUR.csv": {
+        "size": 6356381,
+        "last_modified": 1744092302
+    },
+    "69973_Quantity.csv": {
+        "size": 578625,
+        "last_modified": 1744092302
+    },
+    "ipsa.csv": {
+        "size": 38565263,
+        "last_modified": 1744092002
+    },
+    "abspl.csv": {
+        "size": 3239388,
+        "last_modified": 1744051202
+    },
+    "absstock.csv": {
+        "size": 1456949,
+        "last_modified": 1744092123
+    },
+    "autonethu.csv": {
+        "size": 15560048,
+        "last_modified": 1744045502
+    },
+    "avp_seat_prices.txt": {
+        "size": 8103602,
+        "last_modified": 1737583632
+    },
+    "avp_skoda_prices.txt": {
+        "size": 6840016,
+        "last_modified": 1737583622
+    },
+    "delphi.csv": {
+        "size": 880527,
+        "last_modified": 1744046581
+    },
+    "febi_availability_blueprint_Full.csv": {
+        "size": 1684526,
+        "last_modified": 1744092604
+    },
+    "febi_availability_febi_Full.csv": {
+        "size": 5701402,
+        "last_modified": 1744092604
+    },
+    "febirs_masterdata.csv": {
+        "size": 58044200,
+        "last_modified": 1741179521
+    },
+    "febirs_mesterdata.csv": {
+        "size": 32,
+        "last_modified": 1741169638
+    },
+    "febirs_stock.csv": {
+        "size": 2352432,
+        "last_modified": 1744091413
+    },
+    "lang_keszlet.csv": {
+        "size": 83883540,
+        "last_modified": 1744060758
+    },
+    "nissens_stock.csv": {
+        "size": 181208,
+        "last_modified": 1744045202
+    },
+    "rotinhu.csv": {
+        "size": 558311,
+        "last_modified": 1744046402
+    },
+    "tecdoc_gytok.txt": {
+        "size": 8877,
+        "last_modified": 1743929779
+    },
+    "unitedparts.csv": {
+        "size": 60,
+        "last_modified": 1744045322
+    },
+    "jbm.txt": {
+        "size": 63834,
+        "last_modified": 1744050343
+    },
+    "Cenik_se_stavy_SVATAVA.csv": {
+        "size": 7411963,
+        "last_modified": 1744006755
+    },
+    "kamoka_stock.csv": {
+        "size": 342378,
+        "last_modified": 1744059782
+    },
+    "kavo_stock.csv": {
+        "size": 3593702,
+        "last_modified": 1740467823
+    },
+    "kingstock.csv": {
+        "size": 196203,
+        "last_modified": 1744059002
+    },
+    "kocsis.csv": {
+        "size": 1546770,
+        "last_modified": 1744006580
+    },
+    "gulf.txt": {
+        "size": 143684,
+        "last_modified": 1744091162
+    },
+    "External.csv": {
+        "size": 35986016,
+        "last_modified": 1744060742
+    },
+    "lang_arak.csv": {
+        "size": 56888836,
+        "last_modified": 1744060759
+    },
+    "keszlet10.csv": {
+        "size": 1479319,
+        "last_modified": 1744060745
+    },
+    "meatdoria_stock.csv": {
+        "size": 433777,
+        "last_modified": 1744007883
+    },
+    "marelli_stock.csv": {
+        "size": 1467731,
+        "last_modified": 1744091402
+    },
+    "mm.txt": {
+        "size": 1890540,
+        "last_modified": 1739349369
+    },
+    "mahle.csv": {
+        "size": 1720757,
+        "last_modified": 1744044242
+    },
+    "martex.txt": {
+        "size": 15234756,
+        "last_modified": 1744075447
+    },
+    "master_price.csv": {
+        "size": 852233,
+        "last_modified": 1744007766
+    },
+    "master_stock.csv": {
+        "size": 1057963,
+        "last_modified": 1744007766
+    },
+    "mercibolt.csv": {
+        "size": 112209790,
+        "last_modified": 1737467396
+    },
+    "mercibolt_rapid.csv": {
+        "size": 101663543,
+        "last_modified": 1737467398
+    },
+    "minima.AudiVw.VW.MINIMA.txt": {
+        "size": 20949107,
+        "last_modified": 1743935347
+    },
+    "minima.Bmw.BMW.MINIMA.txt": {
+        "size": 15666890,
+        "last_modified": 1743935351
+    },
+    "minima.Chevrolet_AU.CHEVROLET.MINIMA_AU.txt": {
+        "size": 1861532,
+        "last_modified": 1743935352
+    },
+    "minima.Citroen_AU.CITRO\u00cbN.MINIMA_AU.txt": {
+        "size": 21824888,
+        "last_modified": 1743935357
+    },
+    "minima.Daihatsu.DAIHATSU.MINIMA.txt": {
+        "size": 4483037,
+        "last_modified": 1743935358
+    },
+    "minima.Fiat_Au.FIAT.MINIMA_AU.txt": {
+        "size": 35840368,
+        "last_modified": 1743935366
+    },
+    "minima.Fiat_Chrysler_Jeep.FIAT.MINIMA.txt": {
+        "size": 58576873,
+        "last_modified": 1743935378
+    },
+    "minima.Ford_AU.FORD.MINIMA_AU.txt": {
+        "size": 36419237,
+        "last_modified": 1743935385
+    },
+    "minima.Honda.HONDA.MINIMA.txt": {
+        "size": 53,
+        "last_modified": 1743935386
+    },
+    "minima.Honda_AU.HONDA.MINIMA_AU.txt": {
+        "size": 10359963,
+        "last_modified": 1743935388
+    },
+    "minima.Hyundai.HYUNDAI.MINIMA.txt": {
+        "size": 4562528,
+        "last_modified": 1743935390
+    },
+    "minima.Hyundai_AU.HYUNDAI.MINIMA_AU.txt": {
+        "size": 33640952,
+        "last_modified": 1743935395
+    },
+    "minima.Jaguar.JAGUAR.MINIMA.txt": {
+        "size": 10971193,
+        "last_modified": 1743935398
+    },
+    "minima.Kia.KIA.MINIMA.txt": {
+        "size": 17896972,
+        "last_modified": 1743935402
+    },
+    "minima.Kia_AU.KIA.MINIMA_AU.txt": {
+        "size": 6606191,
+        "last_modified": 1743935405
+    },
+    "minima.Landrover.LAND ROVER.MINIMA.txt": {
+        "size": 15683222,
+        "last_modified": 1743935410
+    },
+    "minima.Mazda.MAZDA.MINIMA.txt": {
+        "size": 24387919,
+        "last_modified": 1743935415
+    },
+    "minima.Mazda_AU.MAZDA.MINIMA_AU.txt": {
+        "size": 4866377,
+        "last_modified": 1743935417
+    },
+    "minima.Mercedes.MERCEDES-BENZ.MINIMA.txt": {
+        "size": 88629115,
+        "last_modified": 1743935433
+    },
+    "minima.Mitsubishi.MITSUBISHI.MINIMA.txt": {
+        "size": 1422614,
+        "last_modified": 1743935434
+    },
+    "minima.Nissan.NISSAN.MINIMA.txt": {
+        "size": 20497193,
+        "last_modified": 1743935439
+    },
+    "minima.Nissan_AU.NISSAN.MINIMA_AU.txt": {
+        "size": 48552017,
+        "last_modified": 1743935448
+    },
+    "minima.Opel_AU.OPEL.MINIMA_AU.txt": {
+        "size": 16922476,
+        "last_modified": 1743935452
+    },
+    "minima.Peugeot.PEUGEOT.MINIMA.txt": {
+        "size": 26401675,
+        "last_modified": 1743935458
+    },
+    "minima.Peugeot_AU.PEUGEOT.MINIMA_AU.txt": {
+        "size": 24262209,
+        "last_modified": 1743935465
+    },
+    "minima.Porsche_AU.PORSCHE.MINIMA_AU.txt": {
+        "size": 5985658,
+        "last_modified": 1743935467
+    },
+    "minima.Renault.RENAULT.MINIMA.txt": {
+        "size": 3532145,
+        "last_modified": 1743935469
+    },
+    "minima.Renault_AU.RENAULT.MINIMA_AU.txt": {
+        "size": 24732202,
+        "last_modified": 1743935474
+    },
+    "minima.Seat_AU.SEAT.MINIMA_AU.txt": {
+        "size": 18057384,
+        "last_modified": 1743935478
+    },
+    "minima.Skoda_AU.SKODA.MINIMA_AU.txt": {
+        "size": 15027599,
+        "last_modified": 1743935482
+    },
+    "minima.Subaru.SUBARU.MINIMA.txt": {
+        "size": 9033635,
+        "last_modified": 1743935484
+    },
+    "minima.Suzuki_AU.SUZUKI.MINIMA_AU.txt": {
+        "size": 15868387,
+        "last_modified": 1743935488
+    },
+    "minima.Volkswagen_AU.VW.MINIMA_AU.txt": {
+        "size": 17870743,
+        "last_modified": 1743935494
+    },
+    "minima.Volvo.VOLVO.MINIMA.txt": {
+        "size": 18251515,
+        "last_modified": 1743935498
+    },
+    "minima.Volvo_AU.VOLVO.MINIMA_AU.txt": {
+        "size": 8083523,
+        "last_modified": 1743935500
+    },
+    "motoprofil.csv": {
+        "size": 63853601,
+        "last_modified": 1744060265
+    },
+    "motogama.csv": {
+        "size": 60109240,
+        "last_modified": 1744043713
+    },
+    "motogama_2.csv": {
+        "size": 63770948,
+        "last_modified": 1744043714
+    },
+    "motorol.csv": {
+        "size": 74557458,
+        "last_modified": 1744092903
+    },
+    "msi.csv": {
+        "size": 1112342,
+        "last_modified": 1743654663
+    },
+    "nimfas.csv": {
+        "size": 274365,
+        "last_modified": 1744091101
+    },
+    "novopolma.txt": {
+        "size": 2693048,
+        "last_modified": 1744006862
+    },
+    "npr.txt": {
+        "size": 557149,
+        "last_modified": 1744003601
+    },
+    "oegermany.csv": {
+        "size": 163027,
+        "last_modified": 1744008781
+    },
+    "optibelt.csv": {
+        "size": 30947,
+        "last_modified": 1744007509
+    },
+    "parts4france.csv": {
+        "size": 4016113,
+        "last_modified": 1744043581
+    },
+    "q4y_uj.txt": {
+        "size": 387124,
+        "last_modified": 1744061823
+    },
+    "rotinger_stock.csv": {
+        "size": 85489,
+        "last_modified": 1744090985
+    },
+    "euroest_ro.csv": {
+        "size": 1114232,
+        "last_modified": 1738136162
+    },
+    "LagerBG.csv": {
+        "size": 1373624,
+        "last_modified": 1744030058
+    },
+    "LagerCA.csv": {
+        "size": 603830,
+        "last_modified": 1744030058
+    },
+    "LagerNS.csv": {
+        "size": 1192331,
+        "last_modified": 1744030059
+    },
+    "LagerOstalo.csv": {
+        "size": 2372745,
+        "last_modified": 1744030059
+    },
+    "materom.csv": {
+        "size": 8719148,
+        "last_modified": 1744007881
+    },
+    "schaefer_stock_price.csv": {
+        "size": 7201479,
+        "last_modified": 1744060520
+    },
+    "schaefer_stock_price_0.csv": {
+        "size": 2669913,
+        "last_modified": 1744060520
+    },
+    "schaefer_stock_price_1.csv": {
+        "size": 471625,
+        "last_modified": 1744060520
+    },
+    "schaefer_stock_price_2.csv": {
+        "size": 3857957,
+        "last_modified": 1744060520
+    },
+    "schaefer_stock_price_3.csv": {
+        "size": 201870,
+        "last_modified": 1744060520
+    },
+    "shipman.csv": {
+        "size": 74993,
+        "last_modified": 1744091239
+    },
+    "stahl_price.csv": {
+        "size": 28643020,
+        "last_modified": 1743800826
+    },
+    "stahl_stock.csv": {
+        "size": 10086072,
+        "last_modified": 1744082835
+    },
+    "stahlcz_price.csv": {
+        "size": 44365883,
+        "last_modified": 1744060442
+    },
+    "stahlcz_price_new.csv": {
+        "size": 45223565,
+        "last_modified": 1744060444
+    },
+    "stahlcz_stock.csv": {
+        "size": 1064237,
+        "last_modified": 1744060444
+    },
+    "suder.csv": {
+        "size": 0,
+        "last_modified": 1744007444
+    },
+    "sziklai_arlista.csv": {
+        "size": 590862,
+        "last_modified": 1744008726
+    },
+    "sziklai_termekek.csv": {
+        "size": 3011432,
+        "last_modified": 1744008726
+    },
+    "tiki.txt": {
+        "size": 633911,
+        "last_modified": 1731574107
+    },
+    "TokicPrice.csv": {
+        "size": 4609709,
+        "last_modified": 1744006747
+    },
+    "TokicStock.csv": {
+        "size": 3383766,
+        "last_modified": 1744006747
+    },
+    "TokicPrice_ro.csv": {
+        "size": 4336671,
+        "last_modified": 1744007947
+    },
+    "TokicStock_ro.csv": {
+        "size": 3383766,
+        "last_modified": 1744007946
+    },
+    "triscan_stock.txt": {
+        "size": 2231988,
+        "last_modified": 1744092782
+    },
+    "trucktec.csv": {
+        "size": 1041099,
+        "last_modified": 1744091076
+    },
+    "valeo_stock.csv": {
+        "size": 3151860,
+        "last_modified": 1744059902
+    },
+    "variens.csv": {
+        "size": 380118,
+        "last_modified": 1744060923
+    },
+    "metzger_stock.csv": {
+        "size": 1837155,
+        "last_modified": 1744038123
+    },
+    "WGArticleInfo.csv": {
+        "size": 45748636,
+        "last_modified": 1744092913
+    },
+    "WGArticleInfo2.csv": {
+        "size": 43748298,
+        "last_modified": 1744092912
+    },
+    "WGPriceList.csv": {
+        "size": 15832076,
+        "last_modified": 1744092913
+    },
+    "WGStock.csv": {
+        "size": 295301,
+        "last_modified": 1744092913
+    }
+}

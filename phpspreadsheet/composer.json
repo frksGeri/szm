@@ -1,0 +1,11 @@
+{
+    "name": "lp-gergo/phpspreadsheet",
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "LpGergo\\Phpspreadsheet\\": "src/"
+        }
+    }
+}
