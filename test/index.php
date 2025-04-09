@@ -1,48 +1,20 @@
-<pre><?php
+<?php
 
-$manufacturer = 'KOLBENSCHMIDT';
-function loadSizeData($manufacturer)
-{
-    $path = 'Z:\szerző peti\\' . $manufacturer . '.csv';
-    $sizeData = [];
+function osztas($a,$b){
 
-    if (!file_exists($path)) {
-        return $sizeData;
+    if($b == 0){
+        throw new Exception("Nullával nem lehet osztani");
     }
 
-    if (($file = fopen($path, "r")) !== FALSE) {
-        $header = fgetcsv($file, 1000, ",");
-        while (($data = fgetcsv($file, 1000, ",")) !== FALSE) {
-            if (empty($data[0])) continue;
-
-            $asizeData = explode("\t", $data[0]);
-
-            if (!isset($asizeData[7]) || $asizeData[7] === '' ) {
-                continue;
-            }
-
-            if (!isset($asizeData[3]) || $asizeData[3] === '' ) {
-                continue;
-            }
-            
-
-            $sizeData[] = [
-                "articlecode" => trim($asizeData[2]),
-                "size" => trim($asizeData[3]),
-                "code" => $asizeData[7]
-                
-            ];
-        }
-        fclose($file);
-    }
-
-
-    return $sizeData;
+    return $a/$b;
 }
 
 
-$m = loadSizeData($manufacturer);
-var_dump($m);
+try{
+    echo osztas("2",10);
+}catch(Exception $s){
+    echo "Következő a hiba: " . $s->getMessage();
+}
 
 //echo $_SERVER[ "HTTP_HOST" ] . "<br>" . $_SERVER['REQUEST_URI']  ;
 

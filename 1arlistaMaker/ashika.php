@@ -1,6 +1,6 @@
 <?php
 
-require '../../phpspreadsheet/vendor/autoload.php';
+require '../phpspreadsheet/vendor/autoload.php';
 
 
 use PhpOffice\PhpSpreadsheet\IOFactory;
@@ -9,7 +9,7 @@ use PhpOffice\PhpSpreadsheet\Cell\Coordinate;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 use PhpOffice\PhpSpreadsheet\Cell\DataType;
 
-$path = 'y:\Árlista 2025\FELTÖLTÖTT ÁRLISTÁK 2025\A-E\ASHIKA\_NYERS\Japanparst_newpricelist___17.02.2025.xlsx';
+$path = 'y:\Árlista 2025\FELTÖLTÖTT ÁRLISTÁK 2025\A-E\ASHIKA\_NYERS\japanparts PriceList_Export___20250501.xlsx';
 $manufacturer = 'ASHIKA';
 class MyReadFilter implements \PhpOffice\PhpSpreadsheet\Reader\IReadFilter
 {
@@ -18,7 +18,7 @@ class MyReadFilter implements \PhpOffice\PhpSpreadsheet\Reader\IReadFilter
         if ($row < 1) {
             return false;
         }
-        $columns = ['C', 'D', 'J','P'];
+        $columns = ['C', 'D', 'M','S'];
         return in_array($column, $columns);
     }
 }
@@ -45,7 +45,7 @@ foreach ($oldSheet->getRowIterator() as $oldRow) {
     foreach ($cellIterator as $cell) {
         $colIndex = Coordinate::stringFromColumnIndex($newCol);
 
-        if (in_array($colIndex, ['C', 'D', 'J','P'])) {
+        if (in_array($colIndex, ['C', 'D', 'M','S'])) {
             $cellValue = $cell->getValue();
             $rowData[$colIndex] = $cellValue;
             $newSheet->setCellValueExplicit($colIndex . $newRow, $cellValue, DataType::TYPE_STRING);
@@ -66,8 +66,8 @@ $headers = [
     'C' => 'code',
     'D' => 'barcode',
     'F' => 'articlecode',
-    'J' => 'price',
-    'P' => 'weight'
+    'M' => 'price',
+    'S' => 'weight'
 ];
 
 foreach ($headers as $col => $header) {
